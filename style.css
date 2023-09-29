@@ -1,0 +1,65 @@
+body
+{
+    background-color: blue;
+}
+
+.sec
+{
+    display: flex;
+    margin-left: 20vw;
+    justify-content: center;
+    border-radius: 30px;
+    width: 55vw;
+    height: 45vw;
+    background-color: white;
+}
+.imagem
+{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.imagem img
+{
+    width: 23vw;
+    border-radius: 10px;
+
+}
+
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+    margin-left: 10vw;
+
+}
+
+.brasil
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 6vw;
+    display: flex;
+}
+
+.assunto
+{
+    margin-top: 4vw;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.conteudo{
+    margin: 2px;
+}
+.clubes
+{
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.times img
+{
+    width: 80px;
+
+}
