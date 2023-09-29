@@ -1,3 +1,3 @@
 ##atividade
 
-<img src="imagens/print.png" alt="neymar">
+<img src="image/print.png" alt="neymar">
